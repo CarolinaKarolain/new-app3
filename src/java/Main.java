@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Hello");
         System.out.println("I am in develop");
         System.out.println("Another (develop) commit");
+        System.out.println("New change from local - develop");
     }
 
 }
